@@ -65,7 +65,7 @@ top: 0;
     font-size: 120px;
     color: white;
     text-transform: uppercase;
-    animation: flip 4s infinite;
+    animation: flip 2s infinite;
     animation-delay: calc(.2s * var(--i))
   }
   @keyframes flip {
